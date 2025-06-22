@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "New arrivals in the digital library",
+    "text": "Explore new books recently added to our collection.",
+    "image": "news1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Library event: Study Tips",
+    "text": "Join our upcoming seminar on effective academic research.",
+    "image": "news2.jpg"
+  }
+]
