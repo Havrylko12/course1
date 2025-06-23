@@ -2,13 +2,61 @@
   {
     "id": 1,
     "title": "New arrivals in the digital library",
-    "text": "Robotics presentaiton on the 25th.",
-    "image": "news3.jpg"
+    "text": "Explore new books recently added to our collection.",
+    "image": "news1.jpg"
   },
   {
     "id": 2,
     "title": "Library event: Study Tips",
-    "text": "Library hours extended until 6PM!.",
+    "text": "Join our upcoming seminar on effective academic research.",
+    "image": "news2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Open Access Week",
+    "text": "Learn more about freely available educational resources.",
+    "image": "news3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Robotics workshop",
+    "text": "Hands-on robotics programming sessions every Friday.",
+    "image": "news4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Extended library hours",
+    "text": "The library is now open until 8 PM on weekdays.",
     "image": "news5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "New e-books subscription",
+    "text": "Access thousands of e-books through our new subscription.",
+    "image": "news6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Library mobile app",
+    "text": "Download our app to access the catalog on the go.",
+    "image": "news7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Research grant opportunities",
+    "text": "Apply for grants to support your academic projects.",
+    "image": "news8.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Author meet-and-greet",
+    "text": "Join us for a virtual meeting with a famous author.",
+    "image": "news9.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Annual book fair",
+    "text": "Don't miss the annual book fair with special discounts.",
+    "image": "news10.jpg"
   }
 ]
